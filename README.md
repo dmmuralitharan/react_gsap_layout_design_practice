@@ -1,12 +1,55 @@
-# React + Vite
+# Scroll-Triggered Animation with GSAP + React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to build smooth, scroll-triggered animations in a React application using **GSAP** and **ScrollTrigger**.
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**
+- **Tailwind CSS**
+- **GSAP** (`gsap` + `ScrollTrigger`)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📹 Demo Video
+
+<video width="800" controls>
+  <source src="./demo.mp4" type="video/mp4">
+  ⚠️ Your browser does not support the video tag.
+</video>
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+```bash
+npm run dev
+```
+
+### 4. Open http://localhost:5173 in your browser
+
+---
+## 📎 Useful Links
+
+- [GSAP Documentation](https://greensock.com/docs/)
+- [ScrollTrigger Plugin](https://greensock.com/scrolltrigger/)
+
+---
+
+## 📬 Contact
+
+📧 dmmuralitharan@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dmmuralitharan)
