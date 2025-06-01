@@ -38,8 +38,10 @@ export default function Features() {
   return (
     <section
       ref={sectionRef}
-      className="relative h-screen flex items-center bg-gray-100 overflow-hidden"
+      className="relative h-screen flex items-center overflow-hidden text-black bg-slate-100"
     >
+      {/* <h2 className="text-4xl font-bold mb-12">Features</h2> */}
+
       <div
         ref={containerRef}
         className="flex space-x-8 px-20"
@@ -48,7 +50,7 @@ export default function Features() {
         {[...Array(6)].map((_, i) => (
           <div
             key={i}
-          className="min-w-[300px] h-[400px] bg-white rounded-xl shadow-md flex items-center justify-center text-xl font-bold"
+            className="min-w-[300px] h-[400px] bg-white rounded-xl shadow-md flex items-center justify-center text-xl font-bold"
           >
             Feature {i + 1}
           </div>

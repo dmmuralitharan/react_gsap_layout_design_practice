@@ -44,13 +44,13 @@ export default function Hero() {
   return (
     <section
       ref={sectionRef}
-      className="min-h-screen flex flex-col justify-center items-center text-center bg-white dark:bg-black"
+      className="min-h-screen flex flex-col justify-center items-center text-center bg-black text-white"
     >
       <h1 ref={titleRef} className="text-5xl font-bold text-gray-900 dark:text-white">
-        Build Beautiful Web Experiences
+        Hi, I'm Muralitharan.
       </h1>
       <p ref={descRef} className="mt-4 text-lg text-gray-600 dark:text-gray-300">
-        Powered by React & GSAP
+        A passionate developer building smooth and engaging web experiences.
       </p>
       <button
         ref={ctaRef}
