@@ -10,13 +10,7 @@ This project demonstrates how to build smooth, scroll-triggered animations in a 
 
 ---
 
-## 📹 Demo Video
-
-<!-- <video width="800" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  ⚠️ Your browser does not support the video tag.
-</video> -->
-[![Watch the demo]](https://github.com/dmmuralitharan/react_gsap_layout_design_practice/raw/main/demo.mp4)
+🎬 [![Watch the demo](./thumbnail.png)](https://github.com/dmmuralitharan/react_gsap_layout_design_practice/raw/main/demo.mp4)
 
 ---
 
