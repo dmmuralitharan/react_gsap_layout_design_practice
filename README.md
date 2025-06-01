@@ -2,15 +2,13 @@
 
 This project demonstrates how to build smooth, scroll-triggered animations in a React application using **GSAP** and **ScrollTrigger**.
 
+[![Watch the demo](./thumbnail.png)](https://github.com/dmmuralitharan/react_gsap_layout_design_practice/raw/main/demo.mp4)
+
 ## 🛠 Tech Stack
 
 - **React**
 - **Tailwind CSS**
 - **GSAP** (`gsap` + `ScrollTrigger`)
-
----
-
-🎬 [![Watch the demo](./thumbnail.png)](https://github.com/dmmuralitharan/react_gsap_layout_design_practice/raw/main/demo.mp4)
 
 ---
 
