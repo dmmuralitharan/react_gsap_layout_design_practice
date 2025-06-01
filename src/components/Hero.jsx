@@ -17,8 +17,8 @@ export default function Hero() {
         trigger: sectionRef.current,
         start: "top 80%",
         end: "bottom 10%",
-        toggleActions: "play reverse play reverse", // Re-triggerable
-        // markers: true, // uncomment for debugging
+        toggleActions: "play reverse play reverse", 
+        // markers: true, 
       },
     });
 

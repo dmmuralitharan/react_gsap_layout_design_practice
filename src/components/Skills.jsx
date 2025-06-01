@@ -41,7 +41,7 @@ export default function Skills() {
               trigger: el,
               start: "top 85%",
               end: "bottom 15%",
-              toggleActions: "play reverse play reverse", // ✅ Repeat on scroll in/out
+              toggleActions: "play reverse play reverse", 
               markers: false,
             },
           }
