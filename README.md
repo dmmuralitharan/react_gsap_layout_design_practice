@@ -17,8 +17,8 @@ This project demonstrates how to build smooth, scroll-triggered animations in a 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/dmmuralitharan/react_gsap_layout_design_practice.git
+cd react_gsap_layout_design_practice
 ```
 
 ### 2. Install dependencies
